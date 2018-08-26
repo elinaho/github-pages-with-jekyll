@@ -6,6 +6,5 @@ description: Hi guys! I made this website using GitHub. It's my first project, I
 # social links
 instagram_username: elina_8052
 github_username:  elinaho
-show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: architect
