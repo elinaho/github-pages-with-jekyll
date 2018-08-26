@@ -1,8 +1,7 @@
-title: Elina Ho
+title: Elina Ho's website
 author: elinaho
 email: elina8052@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hi guys! I made this website using GitHub. It's my first project, I hope you guys like it! :)
+description: Hi guys! I made this website using GitHub. It's my first project, I hope you guys like it! :)
 
 # social links
 twitter_username: your-twitter-handle
@@ -10,4 +9,4 @@ github_username:  your-github-handle
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: architect
